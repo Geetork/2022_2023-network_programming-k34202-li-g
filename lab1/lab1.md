@@ -27,18 +27,16 @@ Date of finished: x.09.2022 <br/>
    [<img src="https://user-images.githubusercontent.com/58363643/192295666-cfac6467-8be0-4a23-87f7-24ff5e5b3e45.png" width="500"/>](https://user-images.githubusercontent.com/58363643/192295666-cfac6467-8be0-4a23-87f7-24ff5e5b3e45.png)
 
 
-   ### 2. Создана виртуальная машина с помощью Yandex Compute Cloude. На ВМ установлена Ubuntu 22.04 ###
+   ### 2. Создана виртуальная машина с помощью Yandex Compute Cloude. На ВМ установлена Ubuntu 20.04 ###
   
 [<img src="https://user-images.githubusercontent.com/58363643/192537987-2a376dff-bf55-4b70-8289-7d4b0f5ae092.png" width="500"/>](https://user-images.githubusercontent.com/58363643/192537987-2a376dff-bf55-4b70-8289-7d4b0f5ae092.png)
 
    - Для доступа к ВМ была создана пара ключей SHH c помощью PuttyGen;
 
    ### 3. Был создан OpenVPN-сервер ###
-   - Был скачан и запущен скрипт openvpn-install.sh.
-   
-[<img src="https://user-images.githubusercontent.com/58363643/192540544-a9675926-02d3-42de-b645-6d72a68860aa.png" width="200"/>](https://user-images.githubusercontent.com/58363643/192540544-a9675926-02d3-42de-b645-6d72a68860aa.png)
+   ![image](https://user-images.githubusercontent.com/58363643/193832234-a76fdabf-b294-4ea0-ae75-b179b688e50b.png)
 
-   - Был скопирован файл конфигурации для клиента client.ovpn.
+   ![image](https://user-images.githubusercontent.com/58363643/193832162-1f2b3fe3-e663-4530-a8ca-dd27b150a7f9.png)
 
    ### 4. На Ubuntu была установлена система Ansible ###
  
