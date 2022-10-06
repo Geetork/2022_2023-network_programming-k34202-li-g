@@ -4,7 +4,7 @@ Course: [Network programming](https://github.com/itmo-ict-faculty/network-progra
 Year: 2022/2023 <br/>
 Group: K34202 <br/>
 Author: Li Galina <br/>
-Lab: Lab1 <br/>
+Lab: Lab2 <br/>
 Date of create: 06.10.2022 <br/>
 Date of finished: x.10.2022 <br/>
 
@@ -19,4 +19,6 @@ Date of finished: x.10.2022 <br/>
 ## Ход работы:
    В процессе выполнения лабораторной работы были выпонены следующие шаги:
    
-   ### Настройка OpenVPN-сервера на Ubuntu ###
+   ### Создание виртуальной машины на VirtualBox, установка CHR, организация OVPN-клиента ###
+   
+   1. 
