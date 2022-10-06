@@ -21,4 +21,10 @@ Date of finished: x.10.2022 <br/>
    
    ### Создание виртуальной машины на VirtualBox, установка CHR, организация OVPN-клиента ###
    
-   1. 
+   1. Была создана виртуальная машина CHR_2 на VirtualBox.
+   2. Был получен IP-адрес ВМ.
+ 
+ ![image](https://user-images.githubusercontent.com/58363643/194368638-c09ea438-c855-4186-ba90-3c5b8cec3f70.png)
+
+ 
+ 
