@@ -36,7 +36,7 @@ Date of finished: x.09.2022 <br/>
    [<img src="https://user-images.githubusercontent.com/58363643/193832162-1f2b3fe3-e663-4530-a8ca-dd27b150a7f9.png" width="500"/>](https://user-images.githubusercontent.com/58363643/193832162-1f2b3fe3-e663-4530-a8ca-dd27b150a7f9.png)
    
    5. В Network Settings/Protocol был выбран TCP, в Advanced VPN/TLS Control Channel Security было выбрано none.
-   6. В разделе User Managment был создан клиент client и скачан профиль profile.ovpn для настройки OVPN-клиента. 
+   6. В разделе User Managment был создан клиент mikrotic и скачан профиль profile.ovpn для настройки OVPN-клиента. 
 
    5. На Ubuntu была установлена система Ansible (для лабораторной работы №2)
  
