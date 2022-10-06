@@ -31,7 +31,7 @@ Date of finished: x.09.2022 <br/>
  
    [<img src="https://user-images.githubusercontent.com/58363643/193832234-a76fdabf-b294-4ea0-ae75-b179b688e50b.png" width="500"/>](https://user-images.githubusercontent.com/58363643/193832234-a76fdabf-b294-4ea0-ae75-b179b688e50b.png)
    
-   4. Для того чтобы создать клиента и изменить конфигурация OpenVPN-сервера, был использован Admin UI (https://\<server ip>:943/admin).
+   4. Для того чтобы создать клиента и изменить конфигурацию OpenVPN-сервера, был использован Admin UI (https://\<server ip>:943/admin).
    
    [<img src="https://user-images.githubusercontent.com/58363643/193832162-1f2b3fe3-e663-4530-a8ca-dd27b150a7f9.png" width="500"/>](https://user-images.githubusercontent.com/58363643/193832162-1f2b3fe3-e663-4530-a8ca-dd27b150a7f9.png)
    
