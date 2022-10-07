@@ -25,6 +25,11 @@ Date of finished: x.10.2022 <br/>
    2. Был получен IP-адрес ВМ.
  
  ![image](https://user-images.githubusercontent.com/58363643/194368638-c09ea438-c855-4186-ba90-3c5b8cec3f70.png)
+ 
+   3. Были получены сертификат и ключ для OVPN-клиента mikrotic2. В WInBox был имортированы сертификат и ключ, настроен OзoenVPN-клиент.
+   
+   ![image](https://user-images.githubusercontent.com/58363643/194483645-8d4def2c-4624-4226-8cb6-ee9f388117ba.png)
+
 
  
  
