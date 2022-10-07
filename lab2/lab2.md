@@ -24,11 +24,17 @@ Date of finished: x.10.2022 <br/>
    1. Была создана виртуальная машина CHR_2 на VirtualBox.
    2. Был получен IP-адрес ВМ.
  
- ![image](https://user-images.githubusercontent.com/58363643/194368638-c09ea438-c855-4186-ba90-3c5b8cec3f70.png)
+      [<img src="https://user-images.githubusercontent.com/58363643/194368638-c09ea438-c855-4186-ba90-3c5b8cec3f70.png" width="400"/>](https://user-images.githubusercontent.com/58363643/194368638-c09ea438-c855-4186-ba90-3c5b8cec3f70.png)
  
-   3. Были получены сертификат и ключ для OVPN-клиента mikrotic2. В WInBox был имортированы сертификат и ключ, настроен OзoenVPN-клиент.
+   3. Были получены сертификат и ключ для OVPN-клиента mikrotic2. В WInBox были имортированы сертификат и ключ, настроен OзoenVPN-клиент.
    
-   ![image](https://user-images.githubusercontent.com/58363643/194483645-8d4def2c-4624-4226-8cb6-ee9f388117ba.png)
+      [<img src="https://user-images.githubusercontent.com/58363643/194483645-8d4def2c-4624-4226-8cb6-ee9f388117ba.png" width="400"/>](https://user-images.githubusercontent.com/58363643/194483645-8d4def2c-4624-4226-8cb6-ee9f388117ba.png)
+
+   4. Проверена IP-связность между OVPN-сервером и СHR_2.
+  
+      [<img src="https://user-images.githubusercontent.com/58363643/194484729-7ca4c125-9226-4e5e-be35-cff2f26565b0.png" width="400"/>](https://user-images.githubusercontent.com/58363643/194484729-7ca4c125-9226-4e5e-be35-cff2f26565b0.png)
+      
+   ### Настройка CHR-машин с помощью Ansible
 
 
  
