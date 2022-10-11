@@ -36,6 +36,20 @@ Date of finished: x.10.2022 <br/>
       
    ### Настройка CHR-машин с помощью Ansible
 
+   5. Был настроен файл инвентаризации /etc/ansible/host.
+      
+      ```
+      ansible-inventory --list -y
+      ```
+      [<img src="https://user-images.githubusercontent.com/58363643/194758918-07f5e987-d0a3-4084-901e-c6035c49a398.png" width="500"/>](https://user-images.githubusercontent.com/58363643/194758918-07f5e987-d0a3-4084-901e-c6035c49a398.png)
+
+   7. Произведена проверка подключения.
+   
+      ```
+      ansible all -m ping
+      ```
+      [<img src="https://user-images.githubusercontent.com/58363643/194758473-81a7018d-a803-4504-af01-267ff3425532.png" width="200"/>](https://user-images.githubusercontent.com/58363643/194758473-81a7018d-a803-4504-af01-267ff3425532.png)
+
 
  
  
