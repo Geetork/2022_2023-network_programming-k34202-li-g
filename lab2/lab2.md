@@ -83,6 +83,6 @@ Date of finished: x.10.2022 <br/>
    [<img src="https://user-images.githubusercontent.com/58363643/195867882-33f2ff93-b341-422b-adba-3991f5d1da3d.png" width="500"/>](https://user-images.githubusercontent.com/58363643/195867882-33f2ff93-b341-422b-adba-3991f5d1da3d.png)
 
 
-    ## Выводы
-    Таким образом, 
+   ## Выводы
+   Таким образом, 
  
