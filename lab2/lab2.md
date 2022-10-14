@@ -55,6 +55,10 @@ Date of finished: x.10.2022 <br/>
       ![image](https://user-images.githubusercontent.com/58363643/195847578-98733f0e-5f6f-447d-8b01-743dee600202.png)
       
       ![image](https://user-images.githubusercontent.com/58363643/195847651-3270f471-2f5e-4384-a1a6-769e0faa17a4.png)
+      
+      ![image](https://user-images.githubusercontent.com/58363643/195848107-909cf029-d623-4c3a-8120-36de1182bfe8.png)
+
+      ![image](https://user-images.githubusercontent.com/58363643/195848394-72e8eca8-15c6-43c9-a290-aaeddb1cc59e.png)
 
       ![image](https://user-images.githubusercontent.com/58363643/195847886-6b69ca1a-c6e8-4095-8647-a66236899822.png)
 
