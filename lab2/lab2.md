@@ -60,7 +60,8 @@ Date of finished: x.10.2022 <br/>
 
       ![image](https://user-images.githubusercontent.com/58363643/195848394-72e8eca8-15c6-43c9-a290-aaeddb1cc59e.png)
       
-      ![image](https://user-images.githubusercontent.com/58363643/195856294-fb0401e2-3879-4c1b-998d-451945af27c7.png)
+      ![image](https://user-images.githubusercontent.com/58363643/195869139-178c8379-ae66-450d-acb7-45e32b9f4bae.png)
+
 
 
       ![image](https://user-images.githubusercontent.com/58363643/195847886-6b69ca1a-c6e8-4095-8647-a66236899822.png)
