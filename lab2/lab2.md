@@ -49,6 +49,16 @@ Date of finished: x.10.2022 <br/>
       ansible all -m ping
       ```
       [<img src="https://user-images.githubusercontent.com/58363643/194758473-81a7018d-a803-4504-af01-267ff3425532.png" width="200"/>](https://user-images.githubusercontent.com/58363643/194758473-81a7018d-a803-4504-af01-267ff3425532.png)
+      
+      ![image](https://user-images.githubusercontent.com/58363643/195847727-0e73cc19-5d92-44ae-af6b-4d5dfd2d7d25.png)
+
+      ![image](https://user-images.githubusercontent.com/58363643/195847578-98733f0e-5f6f-447d-8b01-743dee600202.png)
+      
+      ![image](https://user-images.githubusercontent.com/58363643/195847651-3270f471-2f5e-4384-a1a6-769e0faa17a4.png)
+
+
+      ![image](https://user-images.githubusercontent.com/58363643/195847006-a29f1486-b38c-4018-80a0-412acd26588a.png)
+
 
 
  
