@@ -49,31 +49,40 @@ Date of finished: x.10.2022 <br/>
       ansible all -m ping
       ```
       [<img src="https://user-images.githubusercontent.com/58363643/194758473-81a7018d-a803-4504-af01-267ff3425532.png" width="200"/>](https://user-images.githubusercontent.com/58363643/194758473-81a7018d-a803-4504-af01-267ff3425532.png)
+    
+   8. С помощью Ansible был создан пользователm user на роутерах. 
       
-      ![image](https://user-images.githubusercontent.com/58363643/195847727-0e73cc19-5d92-44ae-af6b-4d5dfd2d7d25.png)
+      [<img src="https://user-images.githubusercontent.com/58363643/195847727-0e73cc19-5d92-44ae-af6b-4d5dfd2d7d25.png" width="600"/>](https://user-images.githubusercontent.com/58363643/195847727-0e73cc19-5d92-44ae-af6b-4d5dfd2d7d25.png)
 
-      ![image](https://user-images.githubusercontent.com/58363643/195847578-98733f0e-5f6f-447d-8b01-743dee600202.png)
+      [<img src="https://user-images.githubusercontent.com/58363643/195847578-98733f0e-5f6f-447d-8b01-743dee600202.png" width="400"/>](https://user-images.githubusercontent.com/58363643/195847578-98733f0e-5f6f-447d-8b01-743dee600202.png)
       
-      ![image](https://user-images.githubusercontent.com/58363643/195847651-3270f471-2f5e-4384-a1a6-769e0faa17a4.png)
+   9. Была выполнена проверка, создан ли пользователь
       
-      ![image](https://user-images.githubusercontent.com/58363643/195848107-909cf029-d623-4c3a-8120-36de1182bfe8.png)
-
-      ![image](https://user-images.githubusercontent.com/58363643/195848394-72e8eca8-15c6-43c9-a290-aaeddb1cc59e.png)
+      [<img src="https://user-images.githubusercontent.com/58363643/195847651-3270f471-2f5e-4384-a1a6-769e0faa17a4.png" width="400"/>](https://user-images.githubusercontent.com/58363643/195847651-3270f471-2f5e-4384-a1a6-769e0faa17a4.png)
       
-      ![image](https://user-images.githubusercontent.com/58363643/195873601-8520762e-dd3c-4575-9c24-447205cf6671.png)
+   10. На роутерах был настроен NTP-клиент
+
+   [<img src="https://user-images.githubusercontent.com/58363643/195848107-909cf029-d623-4c3a-8120-36de1182bfe8.png" width="800"/>](https://user-images.githubusercontent.com/58363643/195848107-909cf029-d623-4c3a-8120-36de1182bfe8.png)
+
+   [<img src="https://user-images.githubusercontent.com/58363643/195848394-72e8eca8-15c6-43c9-a290-aaeddb1cc59e.png" width="300"/>](https://user-images.githubusercontent.com/58363643/195848394-72e8eca8-15c6-43c9-a290-aaeddb1cc59e.png)
+   
+   10. Был настроен OSPF с помощью Ansible (в соответствии со схемой, представленной снизу)
+      
+       [<img src="https://user-images.githubusercontent.com/58363643/195873601-8520762e-dd3c-4575-9c24-447205cf6671.png" width="500"/>](https://user-images.githubusercontent.com/58363643/195873601-8520762e-dd3c-4575-9c24-447205cf6671.png)
+
+   [<img src="https://user-images.githubusercontent.com/58363643/195873077-bca892ec-b654-4b7a-9fc7-1f0cf6d089b3.png" width="600"/>](https://user-images.githubusercontent.com/58363643/195873077-bca892ec-b654-4b7a-9fc7-1f0cf6d089b3.png)
+
+   [<img src="https://user-images.githubusercontent.com/58363643/195847006-a29f1486-b38c-4018-80a0-412acd26588a.png" width="400"/>](https://user-images.githubusercontent.com/58363643/195847006-a29f1486-b38c-4018-80a0-412acd26588a.png)
+   
+   В разделе Neighbor в Winbox была выполнена проверка правильности настройки OSPF.
+   
+   [<img src="https://user-images.githubusercontent.com/58363643/195867595-f999ed61-5d50-495e-a6ab-39ea1130af05.png" width="500"/>](https://user-images.githubusercontent.com/58363643/195867595-f999ed61-5d50-495e-a6ab-39ea1130af05.png)
+
+   Конфигурации роутеров были сохранены в файлах router.rsc, router2.rsc.
+   
+   [<img src="https://user-images.githubusercontent.com/58363643/195867882-33f2ff93-b341-422b-adba-3991f5d1da3d.png" width="500"/>](https://user-images.githubusercontent.com/58363643/195867882-33f2ff93-b341-422b-adba-3991f5d1da3d.png)
 
 
-
-
-      ![image](https://user-images.githubusercontent.com/58363643/195873077-bca892ec-b654-4b7a-9fc7-1f0cf6d089b3.png)
-
-      ![image](https://user-images.githubusercontent.com/58363643/195847006-a29f1486-b38c-4018-80a0-412acd26588a.png)
-
-   ![image](https://user-images.githubusercontent.com/58363643/195867882-33f2ff93-b341-422b-adba-3991f5d1da3d.png)
-
-   ![image](https://user-images.githubusercontent.com/58363643/195867595-f999ed61-5d50-495e-a6ab-39ea1130af05.png)
-
-
-
- 
+    ## Выводы
+    Таким образом, 
  
