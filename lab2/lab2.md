@@ -64,8 +64,7 @@ Date of finished: x.10.2022 <br/>
 
 
 
-      ![image](https://user-images.githubusercontent.com/58363643/195847886-6b69ca1a-c6e8-4095-8647-a66236899822.png)
-
+      ![image](https://user-images.githubusercontent.com/58363643/195873077-bca892ec-b654-4b7a-9fc7-1f0cf6d089b3.png)
 
       ![image](https://user-images.githubusercontent.com/58363643/195847006-a29f1486-b38c-4018-80a0-412acd26588a.png)
 
