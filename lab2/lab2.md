@@ -72,10 +72,6 @@ Date of finished: x.10.2022 <br/>
 
    [<img src="https://user-images.githubusercontent.com/58363643/198066912-301266b6-db2c-4c9c-8c02-42c182d97ee0.png" width="700"/>](https://user-images.githubusercontent.com/58363643/198066912-301266b6-db2c-4c9c-8c02-42c182d97ee0.png)
 
-   
-   [<img src="https://user-images.githubusercontent.com/58363643/198066555-5f5aba7a-f85f-4ef6-be7d-aabe908f40ae.png" width="600"/](https://user-images.githubusercontent.com/58363643/198066555-5f5aba7a-f85f-4ef6-be7d-aabe908f40ae.png)
-
-
    [<img src="https://user-images.githubusercontent.com/58363643/195847006-a29f1486-b38c-4018-80a0-412acd26588a.png" width="400"/>](https://user-images.githubusercontent.com/58363643/195847006-a29f1486-b38c-4018-80a0-412acd26588a.png)
    
    В разделе Neighbor в Winbox была выполнена проверка правильности настройки OSPF.
