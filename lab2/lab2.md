@@ -70,7 +70,8 @@ Date of finished: x.10.2022 <br/>
       
        [<img src="https://user-images.githubusercontent.com/58363643/195873601-8520762e-dd3c-4575-9c24-447205cf6671.png" width="500"/>](https://user-images.githubusercontent.com/58363643/195873601-8520762e-dd3c-4575-9c24-447205cf6671.png)
 
-   [<img src="https://user-images.githubusercontent.com/58363643/195873077-bca892ec-b654-4b7a-9fc7-1f0cf6d089b3.png" width="600"/>](https://user-images.githubusercontent.com/58363643/195873077-bca892ec-b654-4b7a-9fc7-1f0cf6d089b3.png)
+   [<img src="https://user-images.githubusercontent.com/58363643/198066912-301266b6-db2c-4c9c-8c02-42c182d97ee0.png" width="500"/>](https://user-images.githubusercontent.com/58363643/198066912-301266b6-db2c-4c9c-8c02-42c182d97ee0.png)
+
    
    [<img src="https://user-images.githubusercontent.com/58363643/198066555-5f5aba7a-f85f-4ef6-be7d-aabe908f40ae.png" width="600"/](https://user-images.githubusercontent.com/58363643/198066555-5f5aba7a-f85f-4ef6-be7d-aabe908f40ae.png)
 
