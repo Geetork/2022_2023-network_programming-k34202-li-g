@@ -81,6 +81,9 @@ Date of finished: x.10.2022 <br/>
    Конфигурации роутеров были сохранены в файлах router.rsc, router2.rsc.
    
    [<img src="https://user-images.githubusercontent.com/58363643/195867882-33f2ff93-b341-422b-adba-3991f5d1da3d.png" width="500"/>](https://user-images.githubusercontent.com/58363643/195867882-33f2ff93-b341-422b-adba-3991f5d1da3d.png)
+   
+   [<img src="https://user-images.githubusercontent.com/58363643/198251486-6c28893b-0261-490b-b0f3-417c3959a359.png" width="500"/>](https://user-images.githubusercontent.com/58363643/198251486-6c28893b-0261-490b-b0f3-417c3959a359.png)
+
 
 
    ## Выводы
