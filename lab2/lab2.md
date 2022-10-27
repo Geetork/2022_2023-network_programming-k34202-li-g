@@ -76,7 +76,8 @@ Date of finished: x.10.2022 <br/>
    
    В разделе Neighbor в Winbox была выполнена проверка правильности настройки OSPF.
    
-   [<img src="https://user-images.githubusercontent.com/58363643/195867595-f999ed61-5d50-495e-a6ab-39ea1130af05.png" width="500"/>](https://user-images.githubusercontent.com/58363643/195867595-f999ed61-5d50-495e-a6ab-39ea1130af05.png)
+   [<img src="https://user-images.githubusercontent.com/58363643/198253239-940c7e50-6b10-4513-adf9-ab7605ffcf3c.png" width="500"/>](https://user-images.githubusercontent.com/58363643/198253239-940c7e50-6b10-4513-adf9-ab7605ffcf3c.png)
+
 
    Конфигурации роутеров были сохранены в файлах router.rsc, router2.rsc.
    
