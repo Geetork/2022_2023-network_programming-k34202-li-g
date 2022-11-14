@@ -1,3 +1,25 @@
+University: [ITMO University](https://itmo.ru/ru/) <br/>
+Faculty: [FICT](https://fict.itmo.ru) <br/>
+Course: [Network programming](https://github.com/itmo-ict-faculty/network-programming) <br/>
+Year: 2022/2023 <br/>
+Group: K34202 <br/>
+Author: Li Galina <br/>
+Lab: Lab2 <br/>
+Date of create: 14.11.2022 <br/>
+Date of finished: x.11.2022 <br/>
+
+# Лабораторная работа №3 "Развертывание Netbox, сеть связи как источник правды в системе технического учета Netbox"
+
+## Описание
+   В данной лабораторной работе вы ознакомитесь с интеграцией Ansible и Netbox и изучите методы сбора информации с помощью данной интеграции.
+
+## Цель работы:
+   С помощью Ansible и Netbox собрать всю возможную информацию об устройствах и сохранить их в отдельном файле.
+
+## Ход работы:
+   В процессе выполнения лабораторной работы были выпонены следующие шаги:
+   
+   ### Развертывание Netbox на Ubuntu ###
 ![image](https://user-images.githubusercontent.com/58363643/200498777-cdbd4dd5-a700-43ba-8cfb-dd21d6d21948.png)
 ![image](https://user-images.githubusercontent.com/58363643/200498926-aa7aaef8-ed8b-4d23-b01e-27950a2f8b4a.png)
 ![image](https://user-images.githubusercontent.com/58363643/200499077-ea1856f8-377f-4514-842b-e9334385a1ea.png)
