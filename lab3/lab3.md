@@ -5,8 +5,8 @@ Year: 2022/2023 <br/>
 Group: K34202 <br/>
 Author: Li Galina <br/>
 Lab: Lab2 <br/>
-Date of create: 14.11.2022 <br/>
-Date of finished: x.11.2022 <br/>
+Date of create: 1.11.2022 <br/>
+Date of finished: 15.11.2022 <br/>
 
 # Лабораторная работа №3 "Развертывание Netbox, сеть связи как источник правды в системе технического учета Netbox"
 
