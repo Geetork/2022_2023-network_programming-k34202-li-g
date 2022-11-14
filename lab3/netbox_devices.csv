@@ -1,0 +1,4 @@
+Name,Status,Tenant,Site,Location,Rack,Role,Manufacturer,Type,IP Address,ID,Tenant Group,Platform,Serial number,Asset tag,Region,Site Group,Position (U),Rack face,Airflow,IPv4 Address,IPv6 Address,Cluster,Virtual chassis,VC Position,VC Priority,Comments,Contacts,Tags,Created,Last updated
+CHR2,Active,,Local network,,,Router,Mikrotik,RouterOS 7,,2,,,IFQG-KPKP,,,,,,,,,,,,,,,,2022-11-08 11:07,2022-11-08 11:07
+CHR,Active,,Local network,,,Router,Mikrotik,RouterOS 7,,1,,,9NS3-M2XQ,,,,,,,,,,,,,,,,2022-11-08 11:05,2022-11-08 11:10
+Ubuntu Yandex Server,Active,,Local network,,,Server,Cannonical,Ubuntu 20,,3,,,,,,,,,,,,,,,,,,,2022-11-08 11:18,2022-11-08 11:18

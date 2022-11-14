@@ -1,0 +1,31 @@
+- name: Setting up vars
+  hosts: localhost
+  tasks:
+   - name: get data from csv
+     community.general.read_csv:
+       path: netbox_devices.csv
+       key: "ID"
+     register: routers
+     delegate_to: localhost
+   - name: checking
+     debug: 
+      msg: 'Router {{ routers.dict }}'
+   - name: setting vars
+     copy:
+      dest: '/home/user/CHR{{ item }}.yaml'
+      content: 'name: {{ routers.dict[ item ].Name }}'
+     loop:
+      - "1"
+      - "2"
+
+- name: Setting up CHR names
+  hosts: mikrotik
+  vars_files:
+   - CHR1.yaml
+   - CHR2.yaml
+  tasks:
+   - name: change name
+     community.routeros.command:
+      commands:
+       - /system identity set name={{ name }}
+
