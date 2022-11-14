@@ -22,7 +22,7 @@
     - name: Put data to  NetBox
       netbox.netbox.netbox_device:
         netbox_url: http://158.160.3.17
-        netbox_token: 'b71bc79d66272a8790283339cde718470c4839fa'
+        netbox_token: '{{ token }}'
         data:
           site: Testsite
           name: '{{ inventory_hostname }}'
