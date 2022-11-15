@@ -76,8 +76,12 @@ Date of finished: 15.11.2022 <br/>
 [<img src="https://user-images.githubusercontent.com/58363643/201635820-ea4fc208-9ca6-4c1a-8d38-814b5bcd8cb7.png" width="800"/>](https://user-images.githubusercontent.com/58363643/201635820-ea4fc208-9ca6-4c1a-8d38-814b5bcd8cb7.png)
 
 ## Выводы:
-   Таким образом, в процессе выполнения лабораторной работы ознакомились с инструментом NetBox, были созданы сценарии Ansible для работы с NetBox.
+   Таким образом, в процессе выполнения лабораторной работы ознакомились с инструментом NetBox, были созданы сценарии Ansible для работы с NetBox. Также была выполнена проверка локальной связности между роутерами и NetBox.
    
 [<img src="https://user-images.githubusercontent.com/58363643/201637927-5f979abc-82b9-4670-9bb7-f2811174bf9a.png" width="400"/>](https://user-images.githubusercontent.com/58363643/201637927-5f979abc-82b9-4670-9bb7-f2811174bf9a.png)
 
 [<img src="https://user-images.githubusercontent.com/58363643/201636964-661a106e-6b31-4ceb-b67f-8cd60fe4f803.png" width="200"/>](https://user-images.githubusercontent.com/58363643/201636964-661a106e-6b31-4ceb-b67f-8cd60fe4f803.png)
+
+![image](https://user-images.githubusercontent.com/58363643/201857358-49a28fbe-1516-47f5-949d-ea736c716819.png)
+![image](https://user-images.githubusercontent.com/58363643/201857815-b05b40db-55ef-48c3-9d37-754fcee9d765.png)
+
