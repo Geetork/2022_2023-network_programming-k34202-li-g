@@ -6,7 +6,7 @@ Group: K34202 <br/>
 Author: Li Galina <br/>
 Lab: Lab1 <br/>
 Date of create: 24.09.2022 <br/>
-Date of finished: x.09.2022 <br/>
+Date of finished: 27.09.2022 <br/>
 
 # Лабораторная работа №1 "Установка CHR и Ansible, настройка VPN"
 
