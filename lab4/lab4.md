@@ -22,6 +22,6 @@ Date of finished: 29.11.2022 <br/>
    ### Создание ВМ с помощью Vagrant ###
    Был склонирован репозиторий https://github.com/p4lang/tutorials
    
-   ![image](https://user-images.githubusercontent.com/58363643/203720593-62110b3a-027b-48e1-9bf6-d10092b818bd.png)
-
-  
+   [<img src="https://user-images.githubusercontent.com/58363643/203720593-62110b3a-027b-48e1-9bf6-d10092b818bd.png" width="600"/>](https://user-images.githubusercontent.com/58363643/203720593-62110b3a-027b-48e1-9bf6-d10092b818bd.png)
+   Были установлены Vagrant и VirtualBox. </br>
+   Был выполнен переход в папку vm-ubuntu-20.04. Создана виртуальная машина с помощью команды vagrant up.
