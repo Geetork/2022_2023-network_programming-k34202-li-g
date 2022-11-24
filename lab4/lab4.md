@@ -20,5 +20,8 @@ Date of finished: 29.11.2022 <br/>
    В процессе выполнения лабораторной работы были выпонены следующие шаги:
    
    ### Создание ВМ с помощью Vagrant ###
-  
+   Был склонирован репозиторий https://github.com/p4lang/tutorials
+   
+   ![image](https://user-images.githubusercontent.com/58363643/203720593-62110b3a-027b-48e1-9bf6-d10092b818bd.png)
+
   
