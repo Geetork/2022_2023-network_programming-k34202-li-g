@@ -4,7 +4,7 @@ Course: [Network programming](https://github.com/itmo-ict-faculty/network-progra
 Year: 2022/2023 <br/>
 Group: K34202 <br/>
 Author: Li Galina <br/>
-Lab: Lab1 <br/>
+Lab: 4 <br/>
 Date of create: 24.11.2022 <br/>
 Date of finished: 29.11.2022 <br/>
 
