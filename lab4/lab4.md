@@ -43,7 +43,26 @@ Date of finished: 29.11.2022 <br/>
    [<img src="https://user-images.githubusercontent.com/58363643/203789865-4d61e360-4800-47fb-bd53-30f23149e1a0.png" width="400"/>](https://user-images.githubusercontent.com/58363643/203789865-4d61e360-4800-47fb-bd53-30f23149e1a0.png)
    
    ### Implementing Basic Tunneling
+   Был изменен файл basic_tunnel.p4. </br>
+   Была проверена локальная связность.
    
+   [<img src="https://user-images.githubusercontent.com/58363643/203813294-318b9937-1289-43ee-b54d-3a46147d5b01.png" width="400"/>](https://user-images.githubusercontent.com/58363643/203813294-318b9937-1289-43ee-b54d-3a46147d5b01.png)
+
+   Была выполнена проверка скрипта, с h1 был оправлен пакет на h2 без туннелирования.
+   
+   [<img src="https://user-images.githubusercontent.com/58363643/203809425-de4a23ee-a64a-4d3b-bb8a-2af3e1ca9fd9.png" width="400"/>](https://user-images.githubusercontent.com/58363643/203809425-de4a23ee-a64a-4d3b-bb8a-2af3e1ca9fd9.png)
+   
+   [<img src="https://user-images.githubusercontent.com/58363643/203809627-c281b2ba-fdf8-4686-b2c2-a1359143ddf2.png" width="400"/>](https://user-images.githubusercontent.com/58363643/203809627-c281b2ba-fdf8-4686-b2c2-a1359143ddf2.png)
+
+   Был отправлен пакет с h1 на h2 с туннелированием.
+   
+   [<img src="https://user-images.githubusercontent.com/58363643/203812942-6a4c60aa-759a-4395-bd9d-af7da28b8cb5.png" width="400"/>](https://user-images.githubusercontent.com/58363643/203812942-6a4c60aa-759a-4395-bd9d-af7da28b8cb5.png)
+
+## Выводы
+Таким образом, был изучен язык P4, который позволяет настраивать сетевое оборудование, были дополнены скрипты, которые позволяют корректно обрабатывать трафик и организовывать туннели.
+
+   
+
    
 
 
