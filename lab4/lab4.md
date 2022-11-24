@@ -56,7 +56,7 @@ Date of finished: 29.11.2022 <br/>
 
    Был отправлен пакет с h1 на h2 с туннелированием.
    
-   [<img src="https://user-images.githubusercontent.com/58363643/203812942-6a4c60aa-759a-4395-bd9d-af7da28b8cb5.png" width="400"/>](https://user-images.githubusercontent.com/58363643/203812942-6a4c60aa-759a-4395-bd9d-af7da28b8cb5.png)
+   [<img src="https://user-images.githubusercontent.com/58363643/203812942-6a4c60aa-759a-4395-bd9d-af7da28b8cb5.png" width="800"/>](https://user-images.githubusercontent.com/58363643/203812942-6a4c60aa-759a-4395-bd9d-af7da28b8cb5.png)
 
 ## Выводы
 Таким образом, был изучен язык P4, который позволяет настраивать сетевое оборудование, были дополнены скрипты, которые позволяют корректно обрабатывать трафик и организовывать туннели.
