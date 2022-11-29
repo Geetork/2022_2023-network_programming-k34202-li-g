@@ -36,7 +36,8 @@ Date of finished: 29.11.2022 <br/>
    
    [<img src="https://user-images.githubusercontent.com/58363643/203771569-fadf3c1a-a429-4789-bb29-d71797a801cd.png" width="400"/>](https://user-images.githubusercontent.com/58363643/203771569-fadf3c1a-a429-4789-bb29-d71797a801cd.png)
    
-   Был изменен файл basic.p4.
+   Был изменен файл basic.p4:
+   - Был обновлен парсер, который позволяет заполнять заголовки ethernet_t, ipv4_t.
    
    Была выполнена проверка скрипта.
    
